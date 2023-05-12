@@ -7,10 +7,15 @@
    - Σ0 -> The current string pointed by the head. <br>
    - q1 -> The next state of the machine. <br>
    - Σ1 -> The next symbol to be written on cell by the head (As the head of a Turing machine has the ability to read and write, hence making computations).<br>
-   - R -> The Action of the machine. Can be one of 4 options: <br>
+   - A -> The Action of the machine. Can be one of 4 options: <br>
      - R for going one cell to the right.<br>
      - L for going one cell to the left.<br>
-     - Y for halting and accepting, hence exiting with code 0.<br>
-     - N for halting and exiting with code 1 (indicating some error occurred or the string was not accepted).<br>
+     - Y for accepting . <br>
+     - N for halting (indicating some error occurred or the string was not accepted).<br>
+    
 4. The input string that you want to test.<br>
 5. The initial position of the head (starts from zero).<br>
+
+
+#if the Transitions not have the Y action or N the machine will hanging and this case has been handle it
+-As the Tape has a infinte length to the right can be extended
