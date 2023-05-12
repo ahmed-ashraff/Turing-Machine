@@ -17,5 +17,5 @@
 5. The initial position of the head (starts from zero).<br>
 
 
-# if the Transitions not have the Y action or N the machine will hanging and this case has been handle it.
+# if the Transition does not have the Y action or N the machine will hanging and this case has been handle it.
 -As the Tape has a infinte length to the right can be extended, i was changed this module to maximum 10 hashes to the right to avoid the infinte loop.
