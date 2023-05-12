@@ -1,4 +1,4 @@
-# Turing Machine Simulator With Java <br>
+# Turing Machine Simulator <br>
 <b>Takes from the user:</b> <br>
 1. Number of input states. <br>
 2. Number of input symbols known as machine symbols. <br>
