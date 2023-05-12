@@ -1,5 +1,5 @@
 # Turing Machine Simulator With Java <br>
-<h2>Takes from the user:</h2> <br>
+<b>Takes from the user:</b> <br>
 1. Number of input states. <br>
 2. Number of input symbols known as machine symbols. <br>
 3. The transition function. This is the 5-tuples of a Turing machine and must be provided to the machine with every possible combination of states and symbols to avoid hanging.<br>
