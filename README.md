@@ -1,4 +1,4 @@
-# Turing Machine Implementation With Java
+# Turing Machine Simulator With Java
 This is a Simple Implementation of a semi-decidable Turing Machine that reads inputs from the user With the help of @NikolasTzimoulis: <br>
 1- takes number of states <br>
 2- alphabets like{a, b} <br>
